@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 <div>
-<div>
+<div style="width: 400px;
+    background: yellow;">
 <img src="https://www.tesla.com/assets/img/m3_fb_s.jpg">
 </div>
-  <div style = "margin-left: 10px;
-margin-bottom: 10px;">
+  <div style = "float: left;
+    width: 150px;
+    background: red;">
 asfgdhjsahdkjshjdsa sakjdgjsad sagdhsajdsadlksadlsad sahdlksahdhsakdhsad sa2dhl6jash2d65lksa26dlhsad5lh65126512 65ksagdlashld    </div>
 </div>
 <!-- ![Octocat](https://www.tesla.com/assets/img/m3_fb_s.jpg) -->
