@@ -3,7 +3,7 @@ layout: description
 title: About
 permalink: /about/
 ---
-<div class="row">
+<div class="row" style="margin-top:2%">
 <div class="col-md-6 col-sm-6">
         <img src="/assets/samir.jpg">
 
