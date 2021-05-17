@@ -17,14 +17,13 @@ permalink: /about/
                 </li>
                  <li>
                         <h4>
-
-                TU Graz
+                                <a href="https://www.linkedin.com/in/samir-kumar-31977ba7/" style="color:blue">LinkedIn</a>
                         </h4>
 
                 </li>
                  <li>
                        <h4>
-                         <a href = "mailto: s.kumar@student.tugraz.at"> Email: s.kumar@student.tugraz.at </a>
+                         <a> Email: s.kumar[AT]student[DOT]tugraz[DOT]at</a>
                         </h4>
 
                 </li>
