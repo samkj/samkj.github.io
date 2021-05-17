@@ -20,7 +20,9 @@ permalink: /about/
                 Email: s.kumar@student.tugraz.at 
                 </li>
                 <li>
-                        <a href="https://www.linkedin.com/in/samir-kumar-31977ba7/"><i class="bi bi-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/in/samir-kumar-31977ba7/"><button>LinkedIn</button></a>
+                        <a href="https://twitter.com/69sa_m"><button>Twitter</button></a>
+
                 </li>
         </ul>
    </div>
