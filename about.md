@@ -25,7 +25,7 @@ permalink: /about/
                  <li>
                        <h4>
 
-                Email: s.kumar@student.tugraz.at 
+                         <a href = "mailto: s.kumar@student.tugraz.at"> Email: s.kumar@student.tugraz.at </a>
                         </h4>
 
                 </li>
