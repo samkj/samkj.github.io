@@ -23,15 +23,15 @@ permalink: /about/
 
                 </li>
                  <li>
-                       </h4>
+                       <h4>
 
                 Email: s.kumar@student.tugraz.at 
                         </h4>
 
                 </li>
                 <li>
-                        <a href="https://www.linkedin.com/in/samir-kumar-31977ba7/"><button>LinkedIn</button></a>
-                        <a href="https://twitter.com/69sa_m"><button>Twitter</button></a>
+                        <a href="https://www.linkedin.com/in/samir-kumar-31977ba7/">LinkedIn</a>
+                        <a href="https://twitter.com/69sa_m">Twitter</a>
 
                 </li>
         </ul>
