@@ -9,7 +9,7 @@ permalink: /about/
 
 </div>
   <div class="col-md-6 col-sm-6">
-        <ul>
+        <ul style="margin-top: 10%">
                 <li>
                         <h4>
                 MSc. Student: Computer Science
@@ -30,9 +30,10 @@ permalink: /about/
 
                 </li>
                 <li>
+                <h4>
                         <a href="https://www.linkedin.com/in/samir-kumar-31977ba7/" style="color:blue">LinkedIn</a> ||
                         <a href="https://twitter.com/69sa_m" style="color:blue">Twitter</a>
-
+                </h4>
                 </li>
         </ul>
    </div>
