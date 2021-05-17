@@ -1,7 +1,7 @@
 ---
-layout: blog
+layout:
 permalink: /blog/
-title: Samir Kumar | Blog
+title: ss | Blog
 pagination:
   enabled: true
 ---
