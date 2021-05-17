@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div class="row">
 <div class="col-md-6 col-sm-6">
-        <img src="https://www.tesla.com/assets/img/m3_fb_s.jpg">
+        <img src="/assets/pic.jpeg">
 
 </div>
   <div class="col-md-6 col-sm-6">
