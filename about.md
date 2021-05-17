@@ -3,7 +3,7 @@ layout: description
 title: About
 permalink: /about/
 ---
-<div class="container">
+<div class="row">
 <div class="col">
         <img src="https://www.tesla.com/assets/img/m3_fb_s.jpg">
 
