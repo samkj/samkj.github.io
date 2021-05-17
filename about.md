@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div class="row">
 <div class="col-md-6 col-sm-6">
-        <img src="/assets/pic.jpeg">
+        <img src="/assets/samir.jpg">
 
 </div>
   <div class="col-md-6 col-sm-6">
