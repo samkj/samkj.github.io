@@ -3,6 +3,9 @@ layout: description
 title: About
 permalink: /about/
 ---
+### Small image
+
+![Octocat](https://www.tesla.com/assets/img/m3_fb_s.jpg)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -93,14 +96,6 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
-
-### Small image
-
-![Octocat](https://www.tesla.com/assets/img/m3_fb_s.jpg)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
