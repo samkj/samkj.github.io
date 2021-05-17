@@ -11,13 +11,23 @@ permalink: /about/
   <div class="col-md-6 col-sm-6">
         <ul>
                 <li>
-                MSC Student: Computer Science
+                        <h4>
+                MSc. Student: Computer Science
+                        </h4>
                 </li>
                  <li>
+                        <h4>
+
                 TU Graz
+                        </h4>
+
                 </li>
                  <li>
+                       </h4>
+
                 Email: s.kumar@student.tugraz.at 
+                        </h4>
+
                 </li>
                 <li>
                         <a href="https://www.linkedin.com/in/samir-kumar-31977ba7/"><button>LinkedIn</button></a>
