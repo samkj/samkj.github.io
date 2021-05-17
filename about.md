@@ -96,7 +96,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://www.tesla.com/assets/img/m3_fb_s.jpg)
 
 ### Large image
 
