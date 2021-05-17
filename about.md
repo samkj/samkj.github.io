@@ -3,9 +3,12 @@ layout: description
 title: About
 permalink: /about/
 ---
-### Small image
-
-![Octocat](https://www.tesla.com/assets/img/m3_fb_s.jpg)
+<div>
+<div>
+<img src="https://www.tesla.com/assets/img/m3_fb_s.jpg">
+</div>
+</div>
+<!-- ![Octocat](https://www.tesla.com/assets/img/m3_fb_s.jpg) -->
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
