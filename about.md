@@ -39,11 +39,10 @@ permalink: /about/
 </div>
 <!-- ![Octocat](https://www.tesla.com/assets/img/m3_fb_s.jpg) -->
 
-##
+
 I am first year MSc. Student at Technische universität Graz, majoring in Data Science. I am broadly interested in Statistical machine learning and storytelling with data.
 
-I graduated from the <a href="https://www.nitj.ac.in" style="color:blue">National Institute of Technology Jalandhar</a> with Bachelors in Computer Science. I was advised by 
-<a href="https://nitsri.ac.in/Pages/FacultyProfile.aspx?nEmpID=eeo&nDeptID=cs" style="color:blue">Mr. Ranjeet Rout</a> for my undergraduate thesis.
+I graduated from the <a href="https://www.nitj.ac.in" style="color:blue">National Institute of Technology Jalandhar</a> with Bachelors in Computer Science and Engineering. I was advised by <a href="https://nitsri.ac.in/Pages/FacultyProfile.aspx?nEmpID=eeo&nDeptID=cs" style="color:blue">Mr. Ranjeet Rout</a> for my undergraduate thesis.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
