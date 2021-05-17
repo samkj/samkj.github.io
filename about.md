@@ -38,7 +38,7 @@ permalink: /about/
 </div>
 <!-- ![Octocat](https://www.tesla.com/assets/img/m3_fb_s.jpg) -->
 
-<div class="row" style="margin-top:10%">
+<div class="row" style="margin-top:10%"> </div>
 Currently, I am first year MSc. Student at Technische universität Graz, majoring in Data Science. I am broadly interested in Statistical machine learning and storytelling with data.
 
 I graduated from the <a href="https://www.nitj.ac.in" style="color:blue">National Institute of Technology Jalandhar</a> with Bachelors in Computer Science and Engineering. I was advised by <a href="https://nitsri.ac.in/Pages/FacultyProfile.aspx?nEmpID=eeo&nDeptID=cs" style="color:blue">Mr. Ranjeet Rout</a> for my undergraduate thesis. Before joining the university, I worked as a Software Engineer in Camera applications team at <a href="https://research.samsung.com/sri-n" style="color:blue">Samsung R&D Institute, Noida</a> for **3.5 years**. 
