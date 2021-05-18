@@ -61,6 +61,7 @@ Work in progress(will be updated Soon.)
 * Git and other version control systems.
 * Have used Django and memcached for a project during my internship.
 * Can do stuff in frontend and well Python(NumPy, SciPy, Pandas etc.) too 😊
+* Skilled in googling and getting stuff done.👈👈
 * Skilled in Algorithmic Problem Solving.
 
 ### Want to know more about me, Please send me an email.
