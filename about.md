@@ -46,9 +46,11 @@ I graduated from the <a href="https://www.nitj.ac.in" style="color:blue">Nationa
 Outside of work, I am interested in startups and meeting new people for interesting conversations. But, Since I've moved to a new country and city, It will take some time to fix this. Occasionally, I play 🏸 too.
 
 <hr>
-## Experience
-*  June 2017 - Jan 2017: Worked as a Software Engineer at Samsung R&D Institute, Noida in Camera Applications Team.
-*  May 2016 - June 2016: worked as a Software Development Intern at HT Media Ltd. Gurugram.
+## Career
+* Jul-2017 - Jan-2021: Software Engineer **Samsung Research Institute, Noida(India)** in Camera Applications Team.
+
+* May-2016 - Jun-2016: SDE Intern **HT Media Ltd. Gurugram(India)** for development of Digital Marketing System.
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
