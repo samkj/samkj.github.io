@@ -43,7 +43,9 @@ Currently, I am first year MSc. Student at Technische universität Graz, majorin
 
 I graduated from the <a href="https://www.nitj.ac.in" style="color:blue">National Institute of Technology Jalandhar</a>(India) with Bachelors in Computer Science and Engineering. I was advised by <a href="https://nitsri.ac.in/Pages/FacultyProfile.aspx?nEmpID=eeo&nDeptID=cs" style="color:blue">Mr. Ranjeet Rout</a> for my undergraduate thesis. Before joining the university, I worked as a Software Engineer at <a href="https://research.samsung.com/sri-n" style="color:blue">Samsung R&D Institute, Noida</a> for **3.5 years**. 
 
-Outside of work, I am interested in startups and meeting new people for interesting conversations. But, Since I've moved to a new country and city, It will take some time to fix this.
+Outside of work, I am interested in startups and meeting new people for interesting conversations. But, Since I've moved to a new country and city, It will take some time to fix this. Occasionally, I play 🏸 too.
+
+<hr>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
